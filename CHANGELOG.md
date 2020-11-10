@@ -4,7 +4,7 @@ All notable changes to this project `7.1.x` per each release will be documented 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-## [v7.1.0.2] - 2020-10-09
+## [v7.1.0.2] - 2020-11-10
 
 ### Added
 - Adding the Docker Source Git Release Tag Version to Image Metadata. (refer to [issue](https://github.com/wso2/docker-ei/issues/207))
